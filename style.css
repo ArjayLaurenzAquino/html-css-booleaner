@@ -1,0 +1,7 @@
+#logo {
+
+    background-image: url(./img/pattern.png);
+    background-color: cornflowerblue;
+    background-size: contain;
+    margin: -1.5% -1.5% -1.5% -1.5%
+}
