@@ -3,5 +3,69 @@
     background-image: url(./img/pattern.png);
     background-color: cornflowerblue;
     background-size: contain;
-    margin: -1.5% -1.5% -1.5% -1.5%
+    background-origin: padding-box;
+    margin: -2.5px -2.5px -2.5px -2.5px;
+    
+}
+.descrizione { 
+
+    color: grey;
+    margin-top: -15px;
+
+}
+
+#data {
+
+    font-size: small;
+    color: grey;
+    margin-top: -15px;
+
+}
+
+#imgdsc {
+
+    margin-top: -2.5px;
+    font-size: small;
+
+}
+
+.evidenziato {
+
+    background-color: yellow;
+
+}
+
+#autore {
+    color: cyan;
+}
+
+thead {
+
+    
+    color: white;
+    background-color: darkturquoise;
+    background-size: cover;
+}
+
+#fimage {
+
+    font-size: larger;
+    box-sizing: border-box;
+    width: 30%;
+    height: 200px;
+    background-image: url(./img/monitor.jpg);
+    background-size: cover;
+    color: white
+    
+}
+
+#simage {
+
+    font-size: larger;
+    box-sizing: border-box;
+    width: 30%;
+    height: 200px;
+    background-image: url(./img/graph.jpg);
+    background-size: cover;
+    color: white
 }
